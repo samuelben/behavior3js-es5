@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+exports.VERSION = '0.2.0';
+exports.SUCCESS = 1;
+exports.FAILURE = 2;
+exports.RUNNING = 3;
+exports.ERROR = 4;
+exports.COMPOSITE = 'composite';
+exports.DECORATOR = 'decorator';
+exports.ACTION = 'action';
+exports.CONDITION = 'condition';
